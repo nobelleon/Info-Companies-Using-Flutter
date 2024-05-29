@@ -39,11 +39,5 @@ See also:
 | Uberall          | Digital Location Marketing Solution              | https://uberall.com/en-us/company/careers                                           | Worldwide                                                                         |
 | Visible          | Activity tracker for Long-Covid and ME/CFS       | https://www.makevisible.com/                                                        | United States, United Kingdom                                                     |
 | WheelKeep        | The invisible bicycle security system            | https://www.wheelkeep.bike/                                                         | Netherlands, Ukraine                                                              |
-| Wolt             | Delivery platform for food and merchandise       | [Wolt](https://careers.wolt.com/en/blog/tech/scaling-our-merchant-app-with-flutter) | Germany, Finland, Sweden, Denmark, Estonia, Israel                                |
+| Wolt             | Delivery platform for food and merchandise       | [Wolt](https://careers.wolt.com/en/blog/tech/scaling-our-merchant-app-with-flutter) | Germany, Finland, Israel, Sweden, Denmark, Estonia,                                 |
 
-
-## Contributors
-
-<a href="https://github.com/ueman/companies_using_flutter/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ueman/companies_using_flutter" />
-</a>
