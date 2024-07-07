@@ -1,4 +1,4 @@
-# Info-Companies-Using-Flutter
+# Info-Companies-Using-Flutter 
 
 If you want to add a company, feel encouraged to create a PR which adds the company.
 
